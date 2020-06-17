@@ -19,7 +19,7 @@ Once the user submits their chosen request, your application should carry out th
 
 ### Links and Resources
 
-- [Submission Pull Request](https://github.com/sueduclos-401-advanced-javascript/lab-23/pull/1)
+- [CodeSandox Link](https://codesandbox.io/s/frosty-stallman-ipc2b)
 - [Netlify Deployment](www.abc.com)
 
 ### Setup
